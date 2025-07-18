@@ -4,7 +4,6 @@
 
 # Syllabus R22
 
- (Chnage in Unit 05 compared to R20 Syllabus)
 
 ## Unit 01<br/>
 
